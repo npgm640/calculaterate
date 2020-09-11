@@ -1,9 +1,9 @@
-package com.adhoc.demo;
+package com.beth.demo;
 
-import com.adhoc.demo.domain.PlanDetails;
-import com.adhoc.demo.domain.SLCSPlanDetails;
-import com.adhoc.demo.domain.ZipCodeDetails;
-import com.adhoc.demo.util.Utils;
+import com.beth.demo.domain.PlanDetails;
+import com.beth.demo.domain.SLCSPlanDetails;
+import com.beth.demo.domain.ZipCodeDetails;
+import com.beth.demo.util.Utils;
 
 import java.io.*;
 import java.util.*;

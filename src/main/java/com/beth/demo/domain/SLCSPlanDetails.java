@@ -1,9 +1,8 @@
-package com.adhoc.demo.domain;
+package com.beth.demo.domain;
 
 import org.springframework.util.StringUtils;
 
 import java.text.DecimalFormat;
-import java.util.Locale;
 
 public class SLCSPlanDetails extends AbstractDomain {
     private String zipcode;

@@ -1,0 +1,7 @@
+1. Convert the domain object SLCSPlanDetails to csv file under resources output.csv. Currently displaying output to stdout.
+2. optimize the code by using efficient  streams by using better data structures.
+3. replace the legacy code with java 8 features
+3. write test cases.
+4. Implement Dockerfile and instructions to test in AWS/Azure environment.
+5. Verify the collections performance with BigO notations.
+6. Implement CICD pipeline for deployment using Jenkins.

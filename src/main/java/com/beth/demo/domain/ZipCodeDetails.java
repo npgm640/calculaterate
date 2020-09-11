@@ -1,4 +1,4 @@
-package com.adhoc.demo.domain;
+package com.beth.demo.domain;
 
 import java.util.List;
 import java.util.stream.Collectors;

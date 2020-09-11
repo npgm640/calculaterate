@@ -1,4 +1,4 @@
-package com.adhoc.demo.domain;
+package com.beth.demo.domain;
 
 public class AbstractDomain {
 

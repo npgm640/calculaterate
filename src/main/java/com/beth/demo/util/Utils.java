@@ -1,10 +1,8 @@
-package com.adhoc.demo.util;
+package com.beth.demo.util;
 
-import com.adhoc.demo.domain.SLCSPlanDetails;
 import org.springframework.util.ResourceUtils;
 
 import java.io.*;
-import java.util.List;
 import java.util.Properties;
 
 public class Utils {
